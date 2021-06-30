@@ -1,0 +1,21 @@
+{
+  "name": "js-practice-math",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasedfc/js-practice-math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasedfc/js-practice-math/issues"
+  },
+  "homepage": "https://github.com/lucasedfc/js-practice-math#readme"
+}
